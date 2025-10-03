@@ -1,0 +1,16 @@
+#Python bytecode
+__pycache__/
+*pyc
+
+#Database file
+*.json
+
+#Uploads/ to not expose the upload pictures
+uploads/
+
+#Trained weight
+*.pth
+
+#Virtual env (not include yet)
+venv/
+*.venv
